@@ -9,7 +9,7 @@ export default function Sobre() {
         transition={{ duration: 0.8 }}
         className="text-3xl font-bold text-gray-900 mb-6"
       >
-        Sobre a WebCraft
+        Sobre
       </motion.h2>
       <motion.p
         initial={{ opacity: 0, y: 20 }}
