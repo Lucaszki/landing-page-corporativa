@@ -1,7 +1,8 @@
 # Landing Page Corporativa em React
 
 Este é um projeto simples e funcional de **landing page corporativa**, desenvolvido em **React** com **Tailwind CSS** e **Framer Motion**. Ele permite que empresas apresentem seus serviços, parceiros, depoimentos e formulário de contato em uma interface moderna e responsiva.
-
+![Demonstração da Landing Page](./docs/images/screenshot.png)
+![Demonstração da Landing Page](./docs/images/screenshot_1.png)
 ## Funcionalidades
 
 - **Seção Hero Animada**: Apresenta título, subtítulo, botão de ação e ícones ilustrativos.  
