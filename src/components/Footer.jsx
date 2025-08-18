@@ -8,7 +8,7 @@ export default function Footer() {
       transition={{ duration: 0.8 }}
       className="bg-gray-800 text-white py-6 text-center"
     >
-      &copy; {new Date().getFullYear()} WebCraft. Todos os direitos reservados.
+      &copy; {new Date().getFullYear()} Lucas Lima. Todos os direitos reservados.
     </motion.footer>
   );
 }
